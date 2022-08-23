@@ -1,6 +1,6 @@
 - 👋 Hi, I’m (Bryan Hunt) @bryanh171
 - 👀 I’m interested in Full-stack software engineering
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - bryanchristopher78@gmail.com
 
